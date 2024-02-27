@@ -11,6 +11,12 @@
   margin-bottom: 40px;
 }
 
+.eyecatch {
+  object-fit: cover;
+  width: 230px;
+  height: 150px;
+}
+
 .post {
   & > h1 {
     font-size: 30px;
